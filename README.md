@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonyplo" alt="jonyplo" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity, Python.**
+- 🌱 I’m currently learning **Jest, Redux.**
 
 - 👨‍💻 All of my projects are available at [https://curriculum-vitae-jonathan-plodzien.netlify.app/](https://curriculum-vitae-jonathan-plodzien.netlify.app/)
 
-- 💬 Ask me about **Javascript, ReactJS, HTML, CSS, Bootstrap, Git, Agile Methologies, NodeJS**
+- 💬 Ask me about **Javascript, React, HTML, CSS, Bootstrap, Git, Agile Methologies, NodeJS**
 
 - 📫 How to reach me **Email: joonyyplo@gmail.com / Tel: +543816126830**
 
-- ⚡ Fun fact **Addicted to memes**
+- ⚡ Fun fact **I love to play piano**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
