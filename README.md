@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonathan Plodzien and I am 27 years old</h1>
+<h1 align="center">Hi 👋, I'm Jonathan Plodzien</h1>
 <h3 align="center">A passionate fullstack web developer from Tucuman, Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonyplo&label=Profile%20views&color=0e75b6&style=flat" alt="jonyplo" /> </p>
