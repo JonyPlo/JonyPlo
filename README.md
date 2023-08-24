@@ -13,12 +13,10 @@
 
 - 📫 How to reach me **Email: joonyyplo@gmail.com / Tel: +543816126830**
 
-- ⚡ Fun fact **I love to play piano**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jonathan plodzien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan plodzien" height="30" width="40" /></a>
-<a href="https://fb.com/jony plodzien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jony plodzien" height="30" width="40" /></a>
+<a href="https://fb.com/jony plodzien" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg)" alt="jony plodzien" height="30" width="40" /></a>
 <a href="https://instagram.com/jplodzien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jplodzien" height="30" width="40" /></a>
 </p>
 
