@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redux Toolkit, Next.js.**
 
-- 👨‍💻 All of my projects are available at [https://curriculum-vitae-jonathan-plodzien.netlify.app/](https://curriculum-vitae-jonathan-plodzien.netlify.app/)
+- 👨‍💻 All of my info are available at my [curriculum web page](https://jonathan-plodzien-curriculum.vercel.app/)
 
 - 💬 Ask me about **Javascript, React, HTML, CSS, Bootstrap, Git, Agile Methologies, NodeJS**
 
