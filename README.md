@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonyplo" alt="jonyplo" /></a> </p>
 
-- 🌱 I’m currently learning **Redux Toolkit, Next.js.**
-
 - 👨‍💻 All of my info are available at my [curriculum web page](https://jonathan-plodzien-curriculum.vercel.app/)
-
-- 💬 Ask me about **Javascript, React, HTML, CSS, Bootstrap, Git, Agile Methologies, NodeJS**
 
 - 📫 How to reach me **Email: [joonyyplo@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=joonyyplo@gmail.com&su=Interview&body=Hi!%20I%20would%20like%20to%20talk%20to%20you.&tf=cm) / Tel: +543816126830**
 
