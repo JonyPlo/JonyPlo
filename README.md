@@ -15,7 +15,7 @@ All of my projects and experiences are available at **https://jonathan-plodzien-
 ## 📫 Contact with me
 
 <div style="display: flex; gap: 15px">
-  <a href="https://www.linkedin.com/in/jonathan-plodzien-22baa376" target="_blank">
+  <a href="https://www.linkedin.com/in/jonathan-plodzien-22baa376" target="_blank" style="padding= 0px 20px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/JonyPlo" target="_blank">
